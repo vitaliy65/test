@@ -1,1 +1,2 @@
-ASdASDAD
+string str = "hello"
+string str2 = "it's new commit!";
